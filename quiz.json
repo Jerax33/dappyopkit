@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of the Renaissance period with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who painted the Sistine Chapel?",
+      "answers": ["Michelangelo", "Raphael", "Da Vinci"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who wrote The Prince?",
+      "answers": ["Machiavelli", "Dante", "Petrarch"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Where did the Renaissance start?",
+      "answers": ["Italy", "France", "Spain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is humanism?",
+      "answers": ["Philosophy", "Religion", "Science"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Last Supper?",
+      "answers": ["Da Vinci", "Raphael", "Michelangelo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is The Vitruvian Man?",
+      "answers": ["Drawing", "Book", "Sculpture"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted the School of Athens?",
+      "answers": ["Raphael", "Titian", "Tintoretto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What did Gutenberg invent?",
+      "answers": ["Printing", "Compass", "Telescope"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sculpted David?",
+      "answers": ["Michelangelo", "Donatello", "Bernini"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted Primavera?",
+      "answers": ["Botticelli", "Titian", "Da Vinci"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Medici?",
+      "answers": ["Family", "Book", "City"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the language of Dante's works?",
+      "answers": ["Italian", "Latin", "French"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Birth of Venus?",
+      "answers": ["Botticelli", "Raphael", "Tintoretto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was a famous Renaissance scientist?",
+      "answers": ["Galileo", "Newton", "Einstein"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Renaissance art known for?",
+      "answers": ["Realism", "Abstract", "Surreal"],
       "correctAnswerIndex": 0
     }
   ]
